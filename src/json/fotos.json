@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "titulo": "Retratos",
+    "img1": "./images/Retratos/1.jpg",
+    "img2": "./images/Retratos/2.jpg",
+    "img3": "./images/Retratos/3.jpg",
+    "img4": "./images/Retratos/4.jpg",
+    "img5": "./images/Retratos/5.jpg",
+    "img6": "./images/Retratos/6.jpg",
+    "img7": "./images/Retratos/7.jpg" 
+},
+{
+    "id": 2,
+    "titulo": "Copinha 2023",
+    "img1": "./images/Copinha2023/1.jpg"
+},
+{
+    "id": 3,
+    "titulo" : "Copinha 2024",
+    "img1": "./images/Copinha2024/1.jpg"
+    
+},
+{
+    "id": 4,
+    "titulo": "Paulistão 2023",
+    "img1": "./images/Paulistão2023/2.jpg"
+},
+{
+    "id": 5,
+    "titulo": " Paulistão 2024",
+    "img1": "./images/Paulistão2024/1.jpg"
+},
+{
+    "id": 6,
+    "titulo": "24° Aniversário casa do Hip Hop",
+    "img1": "./images/24AniversárioCasadoHipHop/1.jpg"
+},
+{
+    "id" : 7,
+    "titulo" : "Divisão Especial 2024",
+    "img1": "./images/DivisãoEspecial2024/1.jpg"
+}
+]
