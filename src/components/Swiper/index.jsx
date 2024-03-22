@@ -8,7 +8,7 @@ import 'swiper/css/pagination';
 
 export default function Carrossel() {
     return (
-        <section>
+        <section className='hidden'>
             <Swiper
                 modules={[Autoplay, Pagination]}
                 slidesPerView={1}

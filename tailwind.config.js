@@ -8,7 +8,8 @@ export default {
     extend: {
       colors:{
         Bg: '#1c1c1c',
-        instagram: '#dd2a7b',
+        instagramRosa: '#dd2a7b',
+        instagramAmarelo: '#feda77',
         whatsapp: '#25D366',
         Email:'',
         eric: '#294260'
