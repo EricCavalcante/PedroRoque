@@ -8,7 +8,7 @@ import 'swiper/css/pagination';
 
 export default function Carrossel() {
     return (
-        <section className='hidden sm:block'>
+        <section className='hidden sm:block w-3/4'>
             <Swiper
                 modules={[Autoplay, Pagination]}
                 slidesPerView={1}
@@ -16,7 +16,7 @@ export default function Carrossel() {
                 pagination
                 onSlideChange={() => console.log('slide change')}
                 onSwiper={(swiper) => console.log(swiper)}
-                className='w-3/5 rounded-lg shadow-xl'
+                className='rounded-lg shadow-xl justify-center itens-center'
             >
                 <SwiperSlide><img src='./images/DestaquesPrincipaisdoSite/1.jpg' /></SwiperSlide>
                 <SwiperSlide><img src='./images/DestaquesPrincipaisdoSite/2.jpg' /></SwiperSlide>

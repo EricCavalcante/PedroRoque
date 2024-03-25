@@ -35,9 +35,9 @@ export default function Galeria() {
     };
 
     return (
-        <div className="">
-            <h1 className="text-2xl font-Titulo mb-4 bg-black w-full text-center p-4">{foto.titulo}</h1>
             <section className="flex flex-col min-h-screen justify-center items-center">
+            <h1 className="text-3xl font-Titulo mb-4 text-center p-4 sm:text-4xl">{foto.titulo}</h1>
+
                 <div className="h-full flex justify-center flex-wrap gap-4 mx-8 sm:flex-row">
                     {foto.img1 && (
                         <div className="w-96" onClick={() => handleImagemClick(foto.img1)}>
@@ -95,6 +95,5 @@ export default function Galeria() {
                     </div>
                 )}
             </section>
-        </div>
     );
 }

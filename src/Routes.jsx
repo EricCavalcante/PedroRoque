@@ -8,7 +8,7 @@ import ScrollToTop from "./components/ScrollToTop";
 
 export default function App() {
   return (
-    <div className="bg-Bg text-white">
+    <div className="bg-gradient-to-b from-Bg to-black text-white flex flex-col justify-center">
       <BrowserRouter>
         <ScrollToTop/>
         <Navbar />
