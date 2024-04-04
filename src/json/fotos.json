@@ -12,7 +12,17 @@
         "img8": "../images/DivisãoEspecial2024/8.jpg",
         "img9": "../images/DivisãoEspecial2024/9.jpg",
         "img10": "../images/DivisãoEspecial2024/10.jpg",
-        "Teste": "Testado"
+        "Hash1": "LmKxF%DiRQxb?dMxt7t7pIozWCR%",
+        "Hash2": "LiHx.-%MIoR%_4t7bHa}?bRkjcof",
+        "Hash3": "LNH.A|D%x]%M_4%MIotRNbRPRPX8",
+        "Hash4": "LmJ[FpbbtRsm~XfRofoK%fWBRPWB",
+        "Hash5": "LZL|$GyXRlt6?^%2%MMxS5WAoKM{",
+        "Hash6": "LyLXYxRPX8oz_4WBogWVx]ofafV@",
+        "Hash7": "LZI=DJoe9tyC^-t7NGog%#xbs:ay",
+        "Hash8": "LAG[vQD*00~W00%M.S9F00Riadt8",
+        "Hash9": "LgMtaSM|~q%M?ZWXtRj[9at6IURj",
+        "Hash10": "LKMF2,nOmk%2}ZIptRNaMKV@ozbv"
+
     },
     {
         "id": 2,
@@ -23,7 +33,14 @@
         "img4": "../images/Copinha2023/4.jpg",
         "img5": "../images/Copinha2023/5.jpg",
         "img6": "../images/Copinha2023/6.jpg",
-        "img7": "../images/Copinha2023/7.jpg"
+        "img7": "../images/Copinha2023/7.jpg",
+        "Hash1": "LBEf$FVt00WFbmWCxcWB00t7?dRQ",
+        "Hash2": "LCCQGFD$IVR:?dNGjXR%DQozt3n~",
+        "Hash3": "L58;V?M{00?b?bt7RjRj00ay~qWB",
+        "Hash4": "LAE:kYN1oOs?~oSHR*Ri9pM_jJRh",
+        "Hash5": "LGHCMdtSW+M{0IohWYV[Iwt4oNt5",
+        "Hash6": "LpIY8zofR*j[?dofoLj[-;j[ayj[",
+        "Hash7": "L6BW;kMy9F%M_KV@Rjt8M^t6%NV@"
     },
     {
         "id": 3,
@@ -37,7 +54,17 @@
         "img7": "../images/Copinha2024/7.jpg",
         "img8": "../images/Copinha2024/8.jpg",
         "img9": "../images/Copinha2024/9.jpg",
-        "img10": "../images/Copinha2024/10.jpg"
+        "img10": "../images/Copinha2024/10.jpg",
+        "Hash1":"LLHx.+t2IUsA-aRmt7bHx*R.t8kC",
+        "Hash2":"L9F~+_yX00v|:yNg%Pw[4dnmxwW.",
+        "Hash3":"L*KBt2ofV@of~XofbFfkxtj[j[f6",
+        "Hash4":"L5B;XWP000?u00ra?JIV00NL~XV=",
+        "Hash5":"LvI}^ajERioM_4WBWVWV%Ma#j]WB",
+        "Hash6":"L3A1X^CI8x?a00M0?]9F00m-xcNZ",
+        "Hash7":"L9Awt+IU4V~X03RQxsR~0ctO%29F",
+        "Hash8":"L4Bp:;00Ez~W04Ri-pNG00~qH?D$",
+        "Hash9":"L4A^s|_N9FV[00r_-;WA00IA%MX7",
+        "Hash10":"LKHVCwXT009F8~Mxn.-p00t5~qRj"
     },
     {
         "id": 4,
@@ -46,7 +73,12 @@
         "img2": "../images/Paulistão2023/1.jpg",
         "img3": "../images/Paulistão2023/3.jpg",
         "img4": "../images/Paulistão2023/4.jpg",
-        "img5": "../images/Paulistão2023/5.jpg"
+        "img5": "../images/Paulistão2023/5.jpg",
+        "Hash1":"L3F$9VE4yD=_03?w?wIVlVGd=Exs",
+        "Hash2":"LAD0uM?@W*M]?ZRkRUs;OPRiVzx^",
+        "Hash3":"LyKL2LsmS1WB~qj?fma$%ga$jYW=",
+        "Hash4":"LKDA14n1%fjC?wo$r=ozb{R-xbV@",
+        "Hash5":"L4DcjR~lIrRV51D$Stxd0VD*g2R}"
     },
     {
         "id": 5,
@@ -54,18 +86,29 @@
         "img1": "../images/Paulistão2024/1.jpg",
         "img2": "../images/Paulistão2024/2.jpg",
         "img3": "../images/Paulistão2024/3.jpg",
-        "img4": "../images/Paulistão2024/4.jpg"
+        "img4": "../images/Paulistão2024/4.jpg",
+        "Hash1":"L2Bzj*cs0e[p008}^*%31C?sIIt,",
+        "Hash2":"L2DTOf0000Di00M{%2RP00~q=%%#",
+        "Hash3":"L3CQMA4m03xu00Rk_2R*0c_N+Zem",
+        "Hash4":"L2B|$f8y78V=005$%5$%00}]QdkY"
     },
     {
         "id": 6,
         "titulo": "24° Aniversário casa do Hip Hop",
         "img1": "../images/24AniversárioCasadoHipHop/1.jpg",
+        "Hash1": "LOKUfw~qIpRi?F%NSfocH@DiInt7",
         "img2": "../images/24AniversárioCasadoHipHop/2.jpg",
+        "Hash2": "LIHetSpGo|$z_KM_-;oz%#?I?Hg4",
         "img3": "../images/24AniversárioCasadoHipHop/3.jpg",
+        "Hash3": "LAG]2J9YD4.9VC_2_4RP00-C0KDh",
         "img4": "../images/24AniversárioCasadoHipHop/4.jpg",
+        "Hash4": "LxM7+Aj]%MWB-;t7t7oL_NW.WBae",
         "img5": "../images/24AniversárioCasadoHipHop/5.jpg",
+        "Hash5": "L6JRgq_h00?b8w1mPB%g00zA-;IB",
         "img6": "../images/24AniversárioCasadoHipHop/6.jpg",
-        "img7": "../images/24AniversárioCasadoHipHop/7.jpg"
+        "Hash6": "LgKne_WWogx^~p%MNGWA.9xCWBt6",
+        "img7": "../images/24AniversárioCasadoHipHop/7.jpg",
+        "Hash7": "LKJuJx_49F%M$z%No}xuniNGX8og"
     },
     {
         "id": 7,
@@ -76,6 +119,13 @@
         "img4": "../images/Retratos/4.jpg",
         "img5": "../images/Retratos/5.jpg",
         "img6": "../images/Retratos/6.jpg",
-        "img7": "../images/Retratos/7.jpg"
+        "img7": "../images/Retratos/7.jpg",
+        "Hash1":"LBFF%3IUWlXOHq-;E4ozI8D$_4tR",
+        "Hash2":"LMIX,D4osUS%~qIU%M%M_3M{RPjE",
+        "Hash3":"LDD+C$oG01E.01El~V,+~UskZ~T1",
+        "Hash4":"LNFP1;_4Di9Z%2IU9Zo#x]skMx%1",
+        "Hash5":"LCHUnP_39EVY~o=a?b?w%#t7IAZ~",
+        "Hash6":"LAKBE%~Wx-NJ0000%%8_024oV@9F",
+        "Hash7":"LkGIfjkCWoay~qkCfkaxRjj@Rjj["
     }
 ]
