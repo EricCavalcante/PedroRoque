@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Oswald:wght@200..700&display=swap');
 
+body{
+    background: "#1c1c1c";
+};
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+

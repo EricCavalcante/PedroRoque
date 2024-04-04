@@ -1,7 +1,7 @@
 export default function Sobre() {
     return (
         <div className="flex flex-col gap-4 items-center justify-center text-center">
-            <h1 className="text-3xl font-Titulo bg-Bg w-full p-2">Sobre mim</h1>
+            <h1 className="text-3xl font-Titulo p-2">Sobre mim</h1>
             <div className="flex flex-col justify-center items-center gap-6 text-xl m-4 sm:flex-row">
                 <img className="sm:w-80 h-96 sm:shadow-xl object-cover" src="./images/FotoRoque.jpeg"></img>
                 <div className="text-center flex w-full sm:flex flex-col gap-4 sm:text-left sm:w-1/2">
